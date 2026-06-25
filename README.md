@@ -3,8 +3,7 @@
   Technical Program Manager with 12+ years of experience across Microsoft Surface, John Deere, Eaton, and
    Cummins.                                                                                              
                                                                                                          
-  I'm transitioning into AI Product Management — exploring how AI tools, agents, and intelligent systems
-  reshape how products are built and decisions are made.                                                 
+  Exploring how AI tools, agents, and intelligent systems reshape product development while building automation tools that actually work.                                                 
                                                         
   ## What I'm working on                                                                                 
   - Building hands-on experience with AI tools and agents   
